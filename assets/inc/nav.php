@@ -1,7 +1,7 @@
 <nav>
         <ul>
             <li><a <?php if($page == 'Home'){
-                    echo 'class="active"';}?> href="http://serenity.ist.rit.edu/~dwmdis/240/index.php">Home</a></li>
+                    echo 'class="active"';}?> href="http://serenity.ist.rit.edu/~dwmdis/240/rincon/index.php">Home</a></li>
             <li>2</li>
             <li>3</li>
             <li>4</li>
