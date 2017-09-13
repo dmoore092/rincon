@@ -20,7 +20,7 @@
                 >Western Puerto Rico <span class="arrow">&#9660;</span></a>
                 <ul class="sub-menu">
                     <li><a href="#">Rincon</a></li>
-                    <li><a href="#">La Parguera!</a></li>
+                    <li><a href="#">La Parguera</a></li>
                 </ul>
             </li>
             <li>4</li>

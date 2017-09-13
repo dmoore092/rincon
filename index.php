@@ -4,7 +4,7 @@
     <body>
         <?php include "assets/inc/nav.php" ?>
 
-        <main>
+        <main class="clearfix">
             <p>HTML 5 Boilerplate</p>
         </main>
     </body>
