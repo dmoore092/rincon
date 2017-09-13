@@ -8,7 +8,7 @@
             <li>
                 <a <?php if($page == 'PR|San Juan'){
                     echo 'class="active"';}?> href="http://serenity.ist.rit.edu/~dwmdis/240/rincon/sanjuan.php"
-                >San Juan <span class="arrow">&#9660;</span></a>
+                    >San Juan <span class="arrow">&#9660;</span></a>
                 <ul class="sub-menu">
                     <li><a href="#">Food</a></li>
                     <li><a href="#">Activities</a></li>
@@ -20,7 +20,7 @@
                 >Western Puerto Rico <span class="arrow">&#9660;</span></a>
                 <ul class="sub-menu">
                     <li><a href="#">Rincon</a></li>
-                    <li><a href="#">La Parguera</a></li>
+                    <li><a href="#">La Parguera!</a></li>
                 </ul>
             </li>
             <li>4</li>
